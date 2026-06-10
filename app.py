@@ -3,7 +3,7 @@ from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_google_genai import ChatGoogleGenerativeAI  # New cloud-based Google model import
 from langchain_classic.chains import RetrievalQA  
-from langchain_core.prompts import PromptTemplate  
+from langchain_core.prompts import PromptTemplate 
 
 # Page setup for web interface UI layout
 Streamlit.set_page_config(page_title="Ice Age Explorer AI", page_icon="🦣")
