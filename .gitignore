@@ -1,0 +1,9 @@
+# Ignore local database vectors
+chroma_db/
+
+# Ignore Python cache logs
+__pycache__/
+*.pyc
+
+# Ignore environment/secret files if you make them later
+.env
