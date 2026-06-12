@@ -3,5 +3,3 @@ google-generativeai
 pypdf
 chromadb
 Pillow
-wsgi
-rich
