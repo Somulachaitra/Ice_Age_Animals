@@ -4,3 +4,4 @@ pypdf
 chromadb
 Pillow
 wsgi
+rich
